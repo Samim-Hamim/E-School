@@ -1,0 +1,148 @@
+.icon{
+    width:170px;
+}
+.btn{
+    padding: 12px 28px;
+    border-radius: 33px;
+}
+.background{
+    background: #c5ffc5;
+}
+.container{
+    width:1440px;
+}
+.orange{
+    color: #FD511A;
+}
+ul{
+    margin-right: -15%;
+}
+ul li{
+    margin: 15px;
+}
+ul li a{
+    font-weight: bold;
+}
+span{
+    color: #21B573;
+}
+h1{
+    font-weight: 700;
+    font-size: 52px;
+}
+.dimgrey{
+    color: #6C6B6B;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.width{
+    width: 66px;
+height: 85px;
+margin: 0 auto;   
+}
+.s-height{
+    margin-bottom: 100px;
+    height: 550px;
+    margin-top: 100px;
+}
+.card{
+    width: 270px;
+    height: 270px;
+    background: #c5ffc58f;
+    border: none;
+    border-radius: 10px;
+    padding-top: 65px;
+    transition: 0.3s;
+    cursor:pointer;
+}
+.card:hover{
+
+    background:#fff;
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+.card-body{
+    text-align: center;
+}
+.card-body button{
+    padding: 8px 28px;
+}
+.card-title{
+    font-weight: bold;
+    color: #119e00;
+}
+.special .card{
+    height: auto;
+    padding-top: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px grey;
+}
+.special .card:hover{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+.special .card .card-img-top{
+    width: 331px;
+    margin: 0 auto;
+}
+.exp{
+    margin-bottom: 100px;
+}
+.img{
+    width: 24px;
+height: 24px;
+}
+.top{
+    margin-top: 30px;
+}
+.size{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.w{
+    width: 120px;
+height: 120px;
+}
+.s-height-top{
+    margin-top: 100px;
+}
+footer{
+    background: #282531;
+    height: 100%;
+}
+footer p{
+    color:white;
+}
+.p{
+    color:grey;
+    text-align: center;
+    margin-bottom: 0rem;
+}
+.form-control{
+    background: #282531;
+    color:white;
+    border: 1px solid red;
+    box-shadow: 0 0 7px red;
+}
+.form-control:valid{
+    background: #282531;
+    border: 1px solid green;
+    box-shadow: 0 0 7px green;
+    color:white;
+}
+.form-control:invalid{
+    background: #282531;
+    border: 1px solid red;
+    box-shadow: 0 0 7px red;
+    color:white;
+}
+.form-control:focus{
+    background: #282531;
+}
